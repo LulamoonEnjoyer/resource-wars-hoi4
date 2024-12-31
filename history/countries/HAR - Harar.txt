@@ -21,3 +21,7 @@ set_popularities = {
 	communism = 5
 	neutrality = 50
 }
+add_ideas = {
+	HAR_surrounded
+	HAR_no_industry
+}

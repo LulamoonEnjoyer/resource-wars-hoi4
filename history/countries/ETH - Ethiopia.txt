@@ -29,4 +29,10 @@ set_politics = {
 			fascism = 5
 			communism = 45
 			neutrality = 15
-		}
+			}
+		
+add_ideas = {
+	ETH_aftermath
+	ETH_shattered
+	ETH_outrage
+}

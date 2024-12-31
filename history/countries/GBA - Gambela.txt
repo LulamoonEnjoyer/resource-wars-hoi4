@@ -19,7 +19,11 @@ set_politics = {
 }
 set_popularities = {
 	democratic = 30
-	fascism = 20
-	communism = 20
-	neutrality = 30
+	fascism = 0
+	communism = 3
+	neutrality = 67
+}
+add_ideas = {
+	GBA_peacekeepers
+	GBA_limited
 }

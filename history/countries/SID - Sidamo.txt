@@ -16,8 +16,11 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 25
-	fascism = 20
-	communism = 5
-	neutrality = 50
+	democratic = 5
+	fascism = 1
+	communism = 0
+	neutrality = 94
+}
+add_ideas = {
+	SID_monarchy_fervour
 }

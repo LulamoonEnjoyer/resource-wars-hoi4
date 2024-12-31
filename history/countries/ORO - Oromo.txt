@@ -17,8 +17,13 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 5
+	democratic = 7
 	fascism = 0
-	communism = 50
-	neutrality = 45
+	communism = 93
+	neutrality = 0
+}
+
+add_ideas = {
+	ORO_oil
+	ORO_expedition
 }
