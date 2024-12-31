@@ -1,0 +1,30 @@
+﻿l_english: 
+### IDEAS UN PEACEKEEPERS ###
+GBA_peacekeepers:0 "The Final Death Throes of the UN"
+GBA_peacekeepers_desc:0 "Abandoned, forgotten, and the last of an already dead order. When we were sent to Ethiopia following it's complete collapse in 2052, we had no idea it would be the last mission ever issued by the UN. Whether it was by sheer bad luck or a bureaucratic mistake, not two weeks after we had arrived did we get the news that the UN had officially been disbanded, leaving us dead in the water. \n\nIt has been nearly four years since then and our situation has not gotten better, and we are almost completely isolated from the rest of the world. Despite this, the soldiers (those who didn't desert soon after hearing the news of the UN's disbandment) still maintain their mission of defending the inncoent people of Ethiopia. After so many years however, the Peacekeepers are in their final moments and it'll take a genius to bring them back from the brink."
+GBA_limited:0 "Limited Resources"
+GBA_limited_desc:0 "Unfortunately, despite our best efforts to ration it and several successful supply raids against the Revolutionary Army, our stockpiles which we had been given at the start of the mission have essentially dried up. Added on to the fact that our soldiers don't have experience in industry, not helped by our position in the mountains, and our prospects for industry are sorely lacking."
+
+### IDEAS ROYALIST FRONT ###
+SID_monarchy_fervour:0 "For the Emperor!"
+SID_monarchy_fervour_desc:0 "We may have been ousted from the capital, but we are not done yet! As long as our emperor lives we will continue to fight, even if we all die to protect him."
+
+### IDEAS SOVIET EXPEDITION ###
+ORO_expedition:0 "Foreign Expedition"
+ORO_expedition_desc:0 "We are in a foreign land which very much does not want us here. Our presence is most certainly illegal and the only thing stopping the local populace from rising up in open revolt is our superior military. Of course, we are limited in our forces, and it is highly unlikely we will be getting reinforcements from Moscow anytime soon."
+ORO_oil:0 "The Oil Fields"
+ORO_oil_desc:0 "The whole reason for our expedition, the oil fields present in the Ogaden Basin. While not as large or well known as others in say the Americas or Middle East, with the dwindling oil supplies worldwide we need anything we can get."
+
+### IDEAS REVOLUTIONARIES ###
+ETH_aftermath:0 "Aftermath"
+ETH_aftermath_desc:0 "Our coup has failed quite dramatically. While we saw initial success in ousting the Royal Government from power and siezing the capital in the first year, our expectations of the rest of the country uniting behind us were very clearly misplaced and the entire country has fallen apart into breakaway states, leaving us with only the capital and surrounding area."
+ETH_shattered:0 "A Shattered Nation"
+ETH_shattered_desc:0 "The nation has been broken and conflict is abound. The strife all across the country which has run rampant for four years unfortunately means that we are unable to bring our full workforce to bear, and much of our industries are either destroyed or in the hands of our enemies."
+ETH_outrage:0 "Public Outrage"
+ETH_outrage_desc:0 "Contrary to our expectations, it seems the public were not craving a revolution, with riots in the streets now a common occurence and people openly protesting the new government."
+
+### IDEAS OGADEN ###
+HAR_surrounded:0 "Surrounded"
+HAR_surrounded_desc:0 "We are surrounded on all sides by nations who want to see us dead. Our chances are slim, but we will fight for our people and country nonetheless."
+HAR_no_industry:0 "No Industry"
+HAR_no_industry_desc:0 "To put it simply, in terms of industry we have somewhere between zero and nothing. Most of the equipment we have was stolen from abandoned border garrisons following the communist coup in the capital. Coupled with the fact that very little of our population even knows what a factory is and complete industrialisation is an impossibility."
