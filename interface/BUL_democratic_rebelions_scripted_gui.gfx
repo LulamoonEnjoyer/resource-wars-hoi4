@@ -1,22 +1,30 @@
 spriteTypes = {
 	spriteType = {
-		name = "BUL_drsg_sofia_region_sl_COMMUNIST"
-		textureFile = "gfx/interface/BUL_scripted_gui/BUL_drsg_sofia_region_sl_COMMUNIST.dds"
+		name = "BUL_drsg_sofia_region_sl_com"
+		textureFile = "gfx/interface/BUL_scripted_gui/BUL_drsg_sofia_region_sl_com.dds"
 	}
 	spriteType = {
-		name = "BUL_drsg_plovdiv_region_sl_COMMUNIST"
-		textureFile = "gfx/interface/BUL_scripted_gui/BUL_drsg_plovdiv_region_sl_COMMUNIST.dds"
+		name = "BUL_drsg_burgas_region_sl_com"
+		textureFile = "gfx/interface/BUL_scripted_gui/BUL_drsg_burgas_region_sl_com.dds"
 	}
 	spriteType = {
-		name = "BUL_drsg_pleven_region_sl_COMMUNIST"
-		textureFile = "gfx/interface/BUL_scripted_gui/BUL_drsg_pleven_region_sl_COMMUNIST.dds"
+		name = "BUL_drsg_silistra_region_sl_com"
+		textureFile = "gfx/interface/BUL_scripted_gui/BUL_drsg_silistra_region_sl_com.dds"
 	}
 	spriteType = {
-		name = "BUL_drsg_varna_region_sl_COMMUNIST"
-		textureFile = "gfx/interface/BUL_scripted_gui/BUL_drsg_varna_region_sl_COMMUNIST.dds"
+		name = "BUL_drsg_plovdiv_region_sl_com"
+		textureFile = "gfx/interface/BUL_scripted_gui/BUL_drsg_plovdiv_region_sl_com.dds"
 	}
 	spriteType = {
-		name = "BUL_drsg_burgas_region_sl_COMMUNIST"
-		textureFile = "gfx/interface/BUL_scripted_gui/BUL_drsg_burgas_region_sl_COMMUNIST.dds"
+		name = "BUL_drsg_varna_region_sl_com"
+		textureFile = "gfx/interface/BUL_scripted_gui/BUL_drsg_varna_region_sl_com.dds"
+	}
+	spriteType = {
+		name = "BUL_drsg_vidin_region_sl_com"
+		textureFile = "gfx/interface/BUL_scripted_gui/BUL_drsg_vidin_region_sl_com.dds"
+	}
+	spriteType = {
+		name = "BUL_drsg_grid_sl"
+		textureFile = "gfx/interface/BUL_scripted_gui/BUL_drsg_grid_sl.dds"
 	}
 }
