@@ -100,5 +100,11 @@ spriteTypes = {
 		name = "GFX_idea_AST_climate_disaster"
 		texturefile = "gfx/interface/ideas/AST_climate_disaster.dds"
 	}
+	
+	## PRC ##
+	SpriteType = { 
+		name = "GFX_idea_China1_resource_crisis-771849"
+		texturefile = "gfx/interface/ideas/China1_resource_crisis-771849.dds"
+	}
 
 }
