@@ -89,7 +89,10 @@ spriteTypes = {
 		name = "GFX_goal_BUL_monarchy_again_focus"
 		textureFile = "gfx/interface/goals/BUL_monarchy_again_focus.dds"
 	}
-	
+	spriteType = {
+		name = "GFX_goal_BUL_united_and_strong_focus"
+		textureFile = "gfx/interface/goals/BUL_united_and_strong_focus.dds"
+	}
 
 	###CANADA#####
 	

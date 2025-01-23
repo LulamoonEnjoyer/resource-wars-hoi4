@@ -83,13 +83,10 @@ on_actions = {
 					transfer_state = 1018
 
 					set_cosmetic_tag = BUL_balkan_ssr_ct
-				}
-				every_state = {
-					limit = {
-						is_core_of = ROM
-					}
-					add_core_of = BUL
-					remove_core_of = ROM
+
+					set_country_flag = BUL_formed_balkan_ssr_cf
+					load_focus_tree = BUL_balkan_union
+					complete_national_focus = BUL_united_and_strong_focus
 				}
 				every_country = {
 					limit = {

@@ -48,6 +48,10 @@ BUL_traitors_everywhere_focus_desc:0 "These creatures must be destroyed or we wi
 BUL_freebul_free_bulgaria_focus:0 "§4Free Bulgaria!§!"
 BUL_freebul_free_bulgaria_focus_desc:0 "Bulgaria is free at last! Free from tyranny and terror! \n\nDictaturam mors, libertas gloria!"
 
+# balkan rage
+BUL_united_and_strong_focus:0 "United and Strong!"
+BUL_united_and_strong_focus_desc:0 "It is not for nothing that the Balkans are called the “Gunpowder Keg of Europe”, violence, wars and contradictions come from there. Many factors point to this. Such as - many countries and peoples, but what if we unite all the peoples and countries of the Balkans into one strong and proud country. And that is our triumph!"
+
 ### TRAITS ###
 BUL_butcher_trait:0 "§tButcher§!" 
 BUL_paranoid_trait:0 "§tParanoid§!"
@@ -76,6 +80,9 @@ bulgaria.4.a.tt:0 "§tIt's time to cleanse Bulgaria, as our leader wishes us to 
 bulgaria.3.a.tt:0 "§4I dream that some day...§! §tthe world will be purified.§!"
 BUL_freebul_free_bulgaria_focus_tt:0 "§4Bulgaria is free!§!"
 BUL_true_communism_focus_tt:0 "§GEach region will receive 1 level of control.§!"
+
+# balkan rage
+BUL_united_and_strong_focus_tt:0 "§YWe triumphed, Bulgaria triumphed! \n\nEdinni i Silni!§!"
 
 ### IDEAS ###
 BUL_BKP_idea:0 "§tBŭlgarska Komunisticheska Partiya§!"
