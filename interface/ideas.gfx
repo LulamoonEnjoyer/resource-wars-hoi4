@@ -48,6 +48,10 @@ spriteTypes = {
 		name = "GFX_idea_ROM_iron_guard_idea"
 		texturefile = "gfx/interface/ideas/ROM_iron_guard_idea.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_ROM_generatia_egalitatii"
+		texturefile = "gfx/interface/ideas/ROM_generatia_egalitatii.dds"
+	}
 
 	### ESTONIA ###
 	spriteType = {

@@ -58,7 +58,6 @@ country_event = {
 				id = romania_news.2
 				days = 1
 				hours = 6
-				random_hours = 21
 			}
 		}
 	}
@@ -97,7 +96,6 @@ country_event = {
 					id = romania_news.1
 					days = 1
 					hours = 6
-					random_hours = 21
 				}
 			}
 		}
