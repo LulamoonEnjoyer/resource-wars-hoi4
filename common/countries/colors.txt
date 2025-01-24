@@ -65,12 +65,12 @@ ITA = {
 	color_ui = rgb { 87 165 82 }
 }
 ROM = {
-	color = rgb { 119 86 33 }
-	color_ui = rgb { 119 86 33 }
+	color = rgb { 201 154 72 }
+	color_ui = rgb { 201 154 72 }
 }
 YUG = {
-	color = rgb { 72 73 126 }
-	color_ui = rgb { 94 95 164 }
+	color = rgb { 124 62 86 }
+	color_ui = rgb { 124 62 86 }
 }
 SWI = {
 	color = rgb { 224 5 5 }
@@ -97,8 +97,8 @@ DEN = {
 	color_ui = rgb { 199 151 121 }
 }
 BUL = {
-	color = rgb { 51 155 0 }
-	color_ui = rgb { 51 155 0 }
+	color = rgb { 120 158 26 }
+	color_ui = rgb { 120 158 26 }
 }
 POR = {
 	color = rgb { 39 116 70 }
