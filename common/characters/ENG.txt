@@ -152,7 +152,7 @@ characters={
 	}
 	
 	ENG_peters_dustin={
-		name="Peters Dustin"
+		name="Stuart M. Braxby"
 		portraits={
 			civilian={
 				large=gfx/leaders/ENG/Portrait_Britain_Peters_Dustin.png
