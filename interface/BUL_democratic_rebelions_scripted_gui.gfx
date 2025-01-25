@@ -27,4 +27,8 @@ spriteTypes = {
 		name = "BUL_drsg_grid_sl"
 		textureFile = "gfx/interface/BUL_scripted_gui/BUL_drsg_grid_sl.dds"
 	}
+	spriteType = {
+		name = "GFX_BUL_democratic_rebelions_scripted_gui_window_bg"
+		textureFile = "gfx/interface/BUL_scripted_gui/BUL_democratic_rebelions_scripted_gui_window_bg.dds"
+	}
 }

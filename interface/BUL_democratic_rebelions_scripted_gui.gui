@@ -28,7 +28,8 @@ guiTypes = {
 					
 		background = {
 			name = "Background"
-			quadTextureSprite = "GFX_tiled_window2_1b_border"
+			spriteType = "GFX_BUL_democratic_rebelions_scripted_gui_window_bg"
+			#quadTextureSprite = "GFX_tiled_window2_1b_border"
 		}
 		iconType ={
             name ="BUL_drsg_varna_region_sl"
@@ -38,7 +39,7 @@ guiTypes = {
         }
 		iconType ={
             name ="BUL_drsg_vidin_region_sl"
-            position = { x= -263 y = -230 }
+            position = { x= -263 y = -232 }
             Orientation = "center"
 			alwaystransparent = yes
         }
@@ -50,7 +51,7 @@ guiTypes = {
         }
 		iconType ={
             name ="BUL_drsg_sofia_region_sl"
-            position = { x= -267 y = -114 }
+            position = { x= -266 y = -115 }
             Orientation = "center"
 			alwaystransparent = yes
         }
@@ -62,7 +63,7 @@ guiTypes = {
         }
 		iconType ={
             name ="BUL_drsg_burgas_region_sl"
-            position = { x= -40 y = -97 }
+            position = { x= -39 y = -97 }
             Orientation = "center"
 			alwaystransparent = yes
         }
