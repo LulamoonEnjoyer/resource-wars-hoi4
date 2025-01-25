@@ -15,7 +15,6 @@ state={
 		victory_points = {
 			3672 5 
 		}
-		set_demilitarized_zone = yes
 		add_core_of = SOV
 		add_core_of = CIN
 
