@@ -54,7 +54,7 @@ set_country_flag = BUL_democratic_rebelions_mechanics_cf
 
 set_variable = {
 	var = BUL_drsg_sofia_region_vv
-	value = 6
+	value = 8
 }
 set_variable = {
 	var = BUL_drsg_burgas_region_vv
@@ -74,7 +74,7 @@ set_variable = {
 }
 set_variable = {
 	var = BUL_drsg_vidin_region_vv
-	value = 4
+	value = 2
 }
 
 set_politics = {

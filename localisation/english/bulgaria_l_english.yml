@@ -57,11 +57,12 @@ BUL_butcher_trait:0 "§tButcher§!"
 BUL_paranoid_trait:0 "§tParanoid§!"
 
 ### SCRIPTED TEXT ###
-BUL_drsg_sofia_region_sl_text_loc:0 "Control level of the §6Sofia§! region: [?BUL_drsg_sofia_region_vv|+0]"
-BUL_drsg_plovdiv_region_sl_text_loc:0 "Control level of the §6Plovdiv§! region: [?BUL_drsg_plovdiv_region_vv|+0]"
-BUL_drsg_pleven_region_sl_text_loc:0 "Control level of the §6Pleven§! region: [?BUL_drsg_pleven_region_vv|+0]"
-BUL_drsg_varna_region_sl_text_loc:0 "Control level of the §6Varna§! region: [?BUL_drsg_varna_region_vv|+0]"
-BUL_drsg_burgas_region_sl_text_loc:0 "Control level of the §6Burgas§! region: [?BUL_drsg_burgas_region_vv|+0]"
+BUL_drsg_sofia_region_sl_text:0 "Control level of the §6Sofia§! region: [?BUL_drsg_sofia_region_vv|+0]"
+BUL_drsg_burgas_region_sl_text:0 "Control level of the §6Burgas§! region: [?BUL_drsg_burgas_region_vv|+0]"
+BUL_drsg_silistra_region_sl_text:0 "Control level of the §6Silistra§! region: [?BUL_drsg_silistra_region_vv|+0]"
+BUL_drsg_plovdiv_region_sl_text:0 "Control level of the §6Plovdiv§! region: [?BUL_drsg_plovdiv_region_vv|+0]"
+BUL_drsg_varna_region_sl_text:0 "Control level of the §6Varna§! region: [?BUL_drsg_varna_region_vv|+0]"
+BUL_drsg_vidin_region_sl_text:0 "Control level of the §6Vidin§! region: [?BUL_drsg_vidin_region_vv|+0]"
 
 ### DYNAMIC MODIFIERS ###
 BUL_nuclear_power_plant_dm:0 "Nuclear Power Plant"

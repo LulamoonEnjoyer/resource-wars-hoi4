@@ -150,30 +150,36 @@ defined_text = {
 defined_text = {
 	name = BUL_drsg_sofia_region_sl_text_loc
 	text = {
-		localization_key = BUL_drsg_sofia_region_sl_text_loc
-	}
-}
-defined_text = {
-	name = BUL_drsg_plovdiv_region_sl_text_loc
-	text = {
-		localization_key = BUL_drsg_plovdiv_region_sl_text_loc
-	}
-}
-defined_text = {
-	name = BUL_drsg_pleven_region_sl_text_loc
-	text = {
-		localization_key = BUL_drsg_pleven_region_sl_text_loc
-	}
-}
-defined_text = {
-	name = BUL_drsg_varna_region_sl_text_loc
-	text = {
-		localization_key = BUL_drsg_varna_region_sl_text_loc
+		localization_key = BUL_drsg_sofia_region_sl_text
 	}
 }
 defined_text = {
 	name = BUL_drsg_burgas_region_sl_text_loc
 	text = {
-		localization_key = BUL_drsg_burgas_region_sl_text_loc
+		localization_key = BUL_drsg_burgas_region_sl_text
+	}
+}
+defined_text = {
+	name = BUL_drsg_silistra_region_sl_text_loc
+	text = {
+		localization_key = BUL_drsg_silistra_region_sl_text
+	}
+}
+defined_text = {
+	name = BUL_drsg_plovdiv_region_sl_text_loc
+	text = {
+		localization_key = BUL_drsg_plovdiv_region_sl_text
+	}
+}
+defined_text = {
+	name = BUL_drsg_varna_region_sl_text_loc
+	text = {
+		localization_key = BUL_drsg_varna_region_sl_text
+	}
+}
+defined_text = {
+	name = BUL_drsg_vidin_region_sl_text_loc
+	text = {
+		localization_key = BUL_drsg_vidin_region_sl_text
 	}
 }

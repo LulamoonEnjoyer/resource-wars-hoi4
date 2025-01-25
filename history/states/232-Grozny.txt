@@ -12,6 +12,7 @@ state={
 			infrastructure = 2
 
 		}
+		set_demilitarized_zone = yes
 		victory_points = {
 			6701 3 
 		}
@@ -21,7 +22,7 @@ state={
 	}
 
 	provinces={
-		700 712 728 1450 3668 3682 3711 4463 6701 6730 6748 7554 7624 9645 
+		683 700 712 728 1450 1455 3668 3682 3711 4463 6701 6730 6748 6689 7554 7624 9645 
 	}
 	manpower=1358292
 	buildings_max_level_factor=1.000

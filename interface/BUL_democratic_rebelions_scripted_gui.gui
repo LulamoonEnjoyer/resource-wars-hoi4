@@ -80,48 +80,57 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name = "BUL_drsg_sofia_region_sl_text"
-			position = { x = 32 y = 370 }
+			position = { x = 32 y = 366 }
 			maxWidth = 500
 			maxHeight = 20
 			format = center 
-			font = "aldrich_24_outline"
+			font = "pugfont"
 			text = "[BUL_drsg_sofia_region_sl_text_loc]"
 		}
 		instantTextBoxType = {
-			name = "BUL_drsg_plovdiv_region_sl_text"
-			position = { x = 32 y = 390 }
+			name = "BUL_drsg_burgas_region_sl_text"
+			position = { x = 32 y = 386 }
 			maxWidth = 500
 			maxHeight = 20
 			format = center 
-			font = "aldrich_24_outline"
+			font = "pugfont"
+			text = "[BUL_drsg_burgas_region_sl_text_loc]"
+		}
+		instantTextBoxType = {
+			name = "BUL_drsg_silistra_region_sl_text"
+			position = { x = 32 y = 406 }
+			maxWidth = 500
+			maxHeight = 20
+			format = center 
+			font = "pugfont"
+			text = "[BUL_drsg_silistra_region_sl_text_loc]"
+		}
+		instantTextBoxType = {
+			name = "BUL_drsg_plovdiv_region_sl_text"
+			position = { x = 32 y = 426 }
+			maxWidth = 500
+			maxHeight = 20
+			format = center 
+			font = "pugfont"
 			text = "[BUL_drsg_plovdiv_region_sl_text_loc]"
 		}
 		instantTextBoxType = {
-			name = "BUL_drsg_pleven_region_sl_text"
-			position = { x = 32 y = 410 }
-			maxWidth = 500
-			maxHeight = 20
-			format = center 
-			font = "aldrich_24_outline"
-			text = "[BUL_drsg_pleven_region_sl_text_loc]"
-		}
-		instantTextBoxType = {
 			name = "BUL_drsg_varna_region_sl_text"
-			position = { x = 32 y = 430 }
+			position = { x = 32 y = 446 }
 			maxWidth = 500
 			maxHeight = 20
 			format = center 
-			font = "aldrich_24_outline"
+			font = "pugfont"
 			text = "[BUL_drsg_varna_region_sl_text_loc]"
 		}
 		instantTextBoxType = {
-			name = "BUL_drsg_burgas_region_sl_text"
-			position = { x = 32 y = 450 }
+			name = "BUL_drsg_vidin_region_sl_text"
+			position = { x = 32 y = 466 }
 			maxWidth = 500
 			maxHeight = 20
 			format = center 
-			font = "aldrich_24_outline"
-			text = "[BUL_drsg_burgas_region_sl_text_loc]"
+			font = "pugfont"
+			text = "[BUL_drsg_vidin_region_sl_text_loc]"
 		}
 	}
 }
