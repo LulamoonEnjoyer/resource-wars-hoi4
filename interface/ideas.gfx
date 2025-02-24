@@ -52,7 +52,10 @@ spriteTypes = {
 		name = "GFX_idea_ROM_generatia_egalitatii"
 		texturefile = "gfx/interface/ideas/ROM_generatia_egalitatii.dds"
 	}
-
+	spriteType = {
+		name = "GFX_idea_ROM_emergency_situation"
+		texturefile = "gfx/interface/ideas/ROM_emergency_situation.dds"
+	}
 	### ESTONIA ###
 	spriteType = {
 		name = "GFX_idea_EST_defend_our_independence_idea"

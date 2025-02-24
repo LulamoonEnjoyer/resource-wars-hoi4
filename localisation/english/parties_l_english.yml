@@ -73,8 +73,8 @@
  ROM_neutrality_party_long:0 "Centrist Party"
  ROM_communism_party:0 "RCP"
  ROM_communism_party_long:0 "Romanian Communist Party"
- ROM_democratic_party:1 "NPPR"
- ROM_democratic_party_long:1 "National Progressive Party of Romania"
+ ROM_democratic_party:1 "GE"
+ ROM_democratic_party_long:1 "Generatia Egalitatii"
  ROM_fascism_party:0 "New Iron Guard"
 
  CAN_neutrality_party:0 "CPC"

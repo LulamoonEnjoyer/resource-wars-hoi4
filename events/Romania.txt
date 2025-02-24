@@ -64,7 +64,7 @@ country_event = {
 
 	option = {
 		name = romania_revolt.2.a
-		
+		add_ideas = ROM_emergency_situation
 		add_popularity = {
 			ideology = democratic
 			popularity = 0.16
@@ -99,14 +99,14 @@ country_event = {
 				}
 			}
 		}
-		
 	}
 
 	option = {
 		name = romania_revolt.3.a
+		remove_ideas = ROM_emergency_situation
 	}
 }
-# Event for USSR where they think about to fuck Romania
+# Event for USSR where they think about to kill Romania
 country_event = {
 	id = romania_revolt.4
 	title = romania_revolt.4.t

@@ -55,7 +55,7 @@ add_equipment_to_stockpile = {
 }
 add_manpower = 90000
 
-set_convoys = 5
+set_convoys = 15
 
 set_politics = {
 	ruling_party = neutrality
