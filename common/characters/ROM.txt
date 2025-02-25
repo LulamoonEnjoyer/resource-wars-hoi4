@@ -68,21 +68,16 @@ characters={
 		}
 	}
 
-	ROM_king_michael={
-		name=ROM_king_michael
+	ROM_alexandru_popescu={
+		name="Alexandru Popescu"
 		portraits={
 			civilian={
-				large="GFX_Portrait_romania_michael_i"
+				large="gfx/leaders/ROM/ROM_alexandru_popescu.png"
 			}
 		}
 		country_leader={
-			ideology=liberalism
-			expire="1965.1.1.1"
-			id=-1
-		}
-		country_leader={
-			ideology=despotism
-			expire="1965.1.1.1"
+			ideology=Social_Democract
+			expire="2088.1.1.1"
 			id=-1
 		}
 	}

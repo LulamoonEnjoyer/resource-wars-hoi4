@@ -9,7 +9,7 @@ ideas = {
 			}
 		
 			allowed = {
-				original_tag = BUL
+				original_tag = EST
 			}
 		
 			modifier = {
@@ -20,6 +20,29 @@ ideas = {
 				army_core_defence_factor = 0.15
 				army_org_factor = 0.05
 				army_morale_factor = 0.05
+			}
+		
+			ai_will_do = {
+				factor = 1
+			}
+		}
+		EST_proud_small_nation = {
+			removal_cost = -1
+
+			available = {
+				original_tag = EST
+			}
+		
+			allowed = {
+				original_tag = EST
+			}
+		
+			modifier = {
+				research_speed_factor = 0.1
+				stability_factor = 0.08
+				war_support_factor = -0.04
+				trade_opinion_factor = 0.1
+				local_manpower = -0.15
 			}
 		
 			ai_will_do = {

@@ -61,6 +61,10 @@ spriteTypes = {
 		name = "GFX_idea_EST_defend_our_independence_idea"
 		texturefile = "gfx/interface/ideas/EST_defend_our_independence_idea.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_EST_proud_small_nation"
+		texturefile = "gfx/interface/ideas/EST_proud_small_nation.dds"
+	}
 
 	###CANADA###
 	spriteType = {
