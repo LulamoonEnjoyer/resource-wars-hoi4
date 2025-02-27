@@ -65,7 +65,11 @@ spriteTypes = {
 		name = "GFX_idea_EST_proud_small_nation"
 		texturefile = "gfx/interface/ideas/EST_proud_small_nation.dds"
 	}
-
+	### CROATIA ###
+	spriteType = {
+		name = "GFX_idea_CRO_divided_government_idea"
+		texturefile = "gfx/interface/ideas/CRO_divided_government.dds"
+	}
 	###CANADA###
 	spriteType = {
 		name = "GFX_idea_CAN_albertan_oil"

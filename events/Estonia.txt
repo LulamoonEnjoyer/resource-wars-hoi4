@@ -54,6 +54,19 @@ country_event = {
 			white_peace = SOV
 			remove_ideas = EST_defend_our_independence_idea
 		}
+		12 = { set_demilitarized_zone = yes }
+		808 = { set_demilitarized_zone = yes }
+		810 = { set_demilitarized_zone = yes }
+		every_state = {
+			limit = {
+				is_controlled_by = SOV
+				OR = {
+					is_core_of = LIT
+					is_core_of = LAT
+				}
+			}
+			remove_core_of = SOV
+		}
 		set_global_flag = EST_estonian_soviet_war_ended # they won
 	}
 }

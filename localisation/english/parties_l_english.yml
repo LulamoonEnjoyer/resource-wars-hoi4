@@ -77,6 +77,9 @@
  ROM_democratic_party_long:1 "Generatia Egalitatii"
  ROM_fascism_party:0 "New Iron Guard"
 
+ CRO_democratic_party:0 "HDZ"
+ CRO_democratic_party_long:0 "Hrvatska Demokratska Zajednica"
+
  CAN_neutrality_party:0 "CPC"
  CAN_neutrality_party_long:0 "Conservative Party of Canada"
  CAN_communism_party:0 "NDP"
